@@ -1,5 +1,4 @@
 <div class="panel panel-default">
-<h3>Messages will live update here:</h3>
   <div class="panel-body">
     <div id="messages" class="container">
     </div>
