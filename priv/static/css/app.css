@@ -53,5 +53,11 @@ code {
   font-size: 80%;
 }
 
+.panel {
+  max-width:980px;
+  margin: auto;
+  margin-top: 100px;
+}
+
 
 /*# sourceMappingURL=app.css.map*/
